@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React
 
-- 💬 Talk to me about HTML, CSS, JavaScript, Nodejs, Dart, Vue, Flutter
+- 💬 Talk to me about HTML, CSS, JavaScript, Nodejs, C#, Dart, Vue, Flutter
 
 <h2> Skills </h2>
 
@@ -24,7 +24,8 @@
 <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30" /></a> 
 <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30" /></a> 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" /></a>
+<a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" /></a> 
 
 <h2> Connect with me </h2>
 
