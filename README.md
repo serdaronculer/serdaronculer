@@ -6,9 +6,9 @@
 </div>
 <h2> About Me</h2>
 
-- 🌱 I’m currently learning React
 
-- 💬 Talk to me about HTML, CSS, JavaScript, Nodejs, C#, Dart, Vue, Flutter
+
+- 💬 Talk to me about HTML, CSS, JavaScript, Nodejs, C#, ASP.Net Core API, EF Core ,Dart, Vue, Flutter
 
 <h2> Skills </h2>
 
