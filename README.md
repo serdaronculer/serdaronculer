@@ -8,7 +8,7 @@
 
 
 
-- 💬 Talk to me about HTML, CSS, JavaScript, Nodejs, C#, ASP.Net Core API, EF Core ,Dart, Vue, Flutter
+- 💬 Talk to me about HTML, CSS, JavaScript, React, Vue, Nodejs, C#, Flutter
 
 <h2> Skills </h2>
 
@@ -26,11 +26,21 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" /></a> 
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" /></a>
 <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="C#" width="30" height="30" /></a> 
 
 <h2> Connect with me </h2>
 
 <a href = 'https://www.linkedin.com/in/serdaronculer/'> <img width = '30' height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a>
 <a href = 'https://medium.com/@ionculer'><img width="30" height="30" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb.jpg"/></a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serdaronculer" alt="serdaronculer" /></a> </p>
+
+<h2> Stats </h2>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serdaronculer&show_icons=true&locale=en&layout=compact" alt="serdaronculer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serdaronculer&show_icons=true&locale=en" alt="serdaronculer" /></p>
 
 
