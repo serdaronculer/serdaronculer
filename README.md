@@ -5,9 +5,6 @@
 <div size='20px'>Thank you for your time on my github profile
 </div>
 
-</br></br>
-
-
 
 <h2> Stats </h2>
 <p align="left">
