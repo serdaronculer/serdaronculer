@@ -7,15 +7,17 @@
 
 </br></br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serdaronculer" alt="serdaronculer" /></a> </p>
+
 
 <h2> Stats </h2>
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serdaronculer&show_icons=true&locale=en&layout=compact" alt="serdaronculer" /></p>
+<div>
+<img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=serdaronculer&show_icons=true&locale=en" alt="serdaronculer" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serdaronculer&show_icons=true&locale=en" alt="serdaronculer" /></p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=serdaronculer&show_icons=true&locale=en&layout=compact" alt="serdaronculer" />
+</div>
 
 
 <h2> About Me</h2>
