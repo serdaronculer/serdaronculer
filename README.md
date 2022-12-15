@@ -13,11 +13,11 @@
 <p align="left">
 </p>
 
-<div>
+
 <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=serdaronculer&show_icons=true&locale=en" alt="serdaronculer" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=serdaronculer&show_icons=true&locale=en&layout=compact" alt="serdaronculer" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=serdaronculer&show_icons=true&locale=en&layout=compact" alt="serdaronculer" />
+
 
 
 <h2> About Me</h2>
